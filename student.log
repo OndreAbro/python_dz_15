@@ -1,0 +1,15 @@
+2024-03-18 10:03:04,901 - INFO - Welcome new student: John
+2024-03-18 10:03:04,901 - INFO - Welcome new student: Dick
+2024-03-18 10:03:04,901 - INFO - Add score 5 for student: John, subject: math
+2024-03-18 10:03:04,901 - INFO - Add result 100 for student: Dick, subject: history
+2024-03-18 10:03:04,902 - ERROR - Invalid score: 6 for type score
+2024-03-18 10:03:17,717 - INFO - Welcome new student: John
+2024-03-18 10:03:17,718 - INFO - Welcome new student: Dick
+2024-03-18 10:03:17,718 - INFO - Add score 5 for student: John, subject: math
+2024-03-18 10:03:17,718 - INFO - Add result 100 for student: Dick, subject: history
+2024-03-18 10:03:17,718 - ERROR - Invalid subject: chemistry
+2024-03-18 10:03:37,840 - INFO - Welcome new student: John
+2024-03-18 10:03:37,841 - INFO - Welcome new student: Dick
+2024-03-18 10:03:37,841 - INFO - Add score 5 for student: John, subject: math
+2024-03-18 10:03:37,841 - INFO - Add result 100 for student: Dick, subject: history
+2024-03-18 10:03:37,841 - ERROR - Invalid student name
